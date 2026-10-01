@@ -1,7 +1,11 @@
 {
   "format": 1,
   "channels": {
-    "beta": null,
+    "beta": {
+      "version": "1.0.0-beta.1",
+      "notes": "The first beta of Pingendum2D 1.0.",
+      "url": "https://github.com/ogbonnaOsita/Pingendum2D-releases/releases/tag/v1.0.0-beta.1"
+    },
     "stable": null
   }
 }
